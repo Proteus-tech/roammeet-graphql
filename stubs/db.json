@@ -1,0 +1,49 @@
+{
+  "meetups": [
+    {
+      "id": 1,
+      "name": "Ifferrie Farewell",
+      "description": "Bye bye ifferrie",
+      "start_date": "2017-05-20",
+      "start_time": "14:30",
+      "peoples": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Proteus Hackathon",
+      "description": "Hackathon",
+      "start_date": "2017-04-30",
+      "start_time": "13:00",
+      "peoples": [
+        1,
+        2,
+        3
+      ]
+    }
+  ],
+  "peoples": [
+    {
+      "id": 1,
+      "name": "BankMagic",
+      "email": "bankmagic@proteus-tech.com"
+    },
+    {
+      "name": "TleEkkul",
+      "email": "e.aryuth@gmail.com",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Woraphob",
+      "email": "woraphob@proteus-tech.com"
+    },
+    {
+      "name": "Ifferrie",
+      "email": "ifferrie@gmail.com",
+      "id": 4
+    }
+  ]
+}
